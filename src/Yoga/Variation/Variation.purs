@@ -1,4 +1,10 @@
-module Yoga.Variation.Variation where
+module Yoga.Variation.Variation
+  ( Validated
+  , invalid
+  , key
+  , valid
+  )
+  where
 
 import Prelude
 
